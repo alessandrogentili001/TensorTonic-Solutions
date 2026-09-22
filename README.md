@@ -21,6 +21,7 @@ Verified machine learning implementations completed on [TensorTonic](https://www
 
 | Problem | Description | Link |
 |---|---|---|
+| Matrix Addition | Implement elementwise matrix addition in CUDA with a two-dimensional grid, row-major indexing, and bounds checks. | https://www.tensortonic.com/study-plans/cuda-basics/cuda/matrix-addition |
 | Matrix Transpose | Implement matrix transpose in CUDA with a two-dimensional launch grid, row-major buffers, and bounds-checked writes. | https://www.tensortonic.com/study-plans/cuda-basics/cuda/matrix-transpose |
 
 View my verified ML profile: [TensorTonic profile](https://www.tensortonic.com/profile/alessandro_gentili001)
